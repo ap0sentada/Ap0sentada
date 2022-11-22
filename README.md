@@ -1,7 +1,8 @@
 ## Hello! I am Azazel, better known as Aposentada. I'm a backend programmer focused on web development and game creation!
 I work with
 development of games, APIs, websites, integrations and creating/managing teams and communities (for games)<br>
-managed teams for roblox games and CyberConnect2 (and many other subsidiaries)
+managed teams for roblox games and CyberConnect2 (and many other subsidiaries)<br>
+my current focus is administration and web development
 <div align="center">
   <a href="https://github.com/Ap0sentada">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ap0sentada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

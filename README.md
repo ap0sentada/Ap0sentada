@@ -1,4 +1,4 @@
-## Hello! I am Azazel, better known as Retired. I'm a backend programmer focused on web development and game creation!
+## Hello! I am Azazel, better known as Aposentada. I'm a backend programmer focused on web development and game creation!
 <div align="center">
   <a href="https://github.com/Ap0sentada">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ap0sentada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

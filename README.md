@@ -2,9 +2,9 @@
 I work with
 development of games, APIs, websites, integrations and creating/managing teams and communities (for games)<br>
 managed teams for roblox games and CyberConnect2 (and many other subsidiaries)<br>
-my current focus is administration and web development
+my current focus is administration and web development<br>
 Biggest game I worked for outside of roblox: Demon Slayer: Kimetsu no Yaiba – The Hinokami Chronicles
-Biggest game I worked for in roblox: Demonfall
+<br>Biggest game I worked for in roblox: Demonfall
 <div align="center">
   <a href="https://github.com/Ap0sentada">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ap0sentada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -33,13 +33,14 @@ Biggest game I worked for outside of roblox: Demon Slayer: Kimetsu no Yaiba – 
   <img align="center" alt="Unreal (engine)" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
   <img align="center" alt="Blender (modeld)" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
   
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/812897142242541571/1044702696227213413/a_e92084ee179fc9c239adaba999ed9cc9.gif">
+  <img align="right" alt="pic" height="150" style="border-radius:100px !important;" src="https://cdn.discordapp.com/attachments/1009415186790219797/1050079126926667876/aa6354014d7d8989f2b7a4bd9c62c12d1617983007_full.jpg">
 </div>
   
   ##
- 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ap0sentada&bg_color=22272e&color=adbac7&line=282a36&point=7c4dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div> 
  Azazel#0010
   <a href = "mailto:akihikotsukiyama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
+

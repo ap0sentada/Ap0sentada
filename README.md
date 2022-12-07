@@ -33,7 +33,7 @@ Biggest game I worked for outside of roblox: Demon Slayer: Kimetsu no Yaiba – 
   <img align="center" alt="Unreal (engine)" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
   <img align="center" alt="Blender (modeld)" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
   
-  <img align="right" alt="pic" height="150" style="border-radius:100px !important;" src="https://cdn.discordapp.com/attachments/1009415186790219797/1050079126926667876/aa6354014d7d8989f2b7a4bd9c62c12d1617983007_full.jpg">
+  <img align="right" alt="pic" height="150" src="https://cdn.discordapp.com/attachments/1009415186790219797/1050079126926667876/aa6354014d7d8989f2b7a4bd9c62c12d1617983007_full.jpg"  style="border-radius:100px !important; user-drag: none; user-select: none;" draggable="false">
 </div>
   
   ##
